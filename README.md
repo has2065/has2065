@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center" style="margin-top: 10px;">
-  <a href="your-telegram-URL">
+  <a href="https://t.me/has2065">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@napominania_06">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/archakov.01">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
