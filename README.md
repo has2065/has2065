@@ -7,6 +7,7 @@
   <a href="https://t.me/has2065">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=has2065&style=flat-square&color=blue" alt=""/>
   <a href="https://www.youtube.com/@napominania0684">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
