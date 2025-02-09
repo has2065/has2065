@@ -12,18 +12,11 @@
   <a href="https://www.instagram.com/archakov.01">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
-<div align="center">
-  <div align="center" id="badges">
-    <h3 align="center">Contact me</h3>
-    <a href="mailto:hasbulat69@mail.ru">
-      <img src="https://img.shields.io/badge/-hasbulat69gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:cr7635072@gmail.ru">
+      <img src="https://img.shields.io/badge/gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://t.me/Xac47">
-      <img src="https://img.shields.io/badge/-Xac47-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>  
 </div>
+
 
 ## Technology stack
 
