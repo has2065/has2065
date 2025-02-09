@@ -1,13 +1,15 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVjYWdlMDdzdjZxamNscXcwa3g5czNoYzVxazV5OWwyd296a2w4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=has2065&style=flat-square&color=blue" alt=""/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=has2065&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div id="badges" align="center" style="margin-top: 10px;">
   <a href="https://t.me/has2065">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=has2065&style=flat-square&color=blue" alt=""/>
   <a href="https://www.youtube.com/@napominania0684">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
@@ -16,7 +18,7 @@
   </a>
   <a href="mailto:cr7635072@gmail.ru">
       <img src="https://img.shields.io/badge/gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+  </a>
 </div>
 
 
