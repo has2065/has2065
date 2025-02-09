@@ -68,3 +68,20 @@
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go&logoColor=00a7d0)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=5ed3f3)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-11003b?style=flat-square&logo=Vue.js&logoColor=3fb27f)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+
+---
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-has2065-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/has2065)
+
+
