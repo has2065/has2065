@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVjYWdlMDdzdjZxamNscXcwa3g5czNoYzVxazV5OWwyd296a2w4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqnUYLPQnDERbhQ5872GYtReECEx19FM1XmVtWAL_J1Pc1RHNmtRyczPl2A1OLKp_P9oCcpEwS6E7tROCdYo2gLZ7SAer0Y2dsVWz6Ne3R-4QzXndTWg8HaweAjxtIpYa8qQjZuldlpM/s0/Flag_of_Ingushetia.gif)" width="500"/>
+  <img src="(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqnUYLPQnDERbhQ5872GYtReECEx19FM1XmVtWAL_J1Pc1RHNmtRyczPl2A1OLKp_P9oCcpEwS6E7tROCdYo2gLZ7SAer0Y2dsVWz6Ne3R-4QzXndTWg8HaweAjxtIpYa8qQjZuldlpM/s0/Flag_of_Ingushetia.gif)" width="500"/>
 </div>
 
 <div align="center">
