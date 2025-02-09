@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVjYWdlMDdzdjZxamNscXcwa3g5czNoYzVxazV5OWwyd296a2w4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=has2065?your-github-username=&style=flat-square&color=blue" alt=""/>
 <div id="badges" align="center" style="margin-top: 10px;">
   <a href="https://t.me/has2065">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
